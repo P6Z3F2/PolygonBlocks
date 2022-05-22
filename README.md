@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+# Welcome to my application
+
+This is an application, which logs the most recent blocks that were added to the Polygon test blockchain.
+
+After a block was added, it will appear below the recent blocks, in a card format.
+
+The card contains the number of the block and the gas used.
+
+The gas cost is the amount of Wei that were spent to execute the all transactions in the block.
+
+## Start the application
+
+1. Clone it
+
+2. Run ``` npm i ``` in the root folder
+
+3. Run ``` npm start ``` in the root folder
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
