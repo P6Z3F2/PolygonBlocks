@@ -6,7 +6,7 @@ After a block was added, it will appear below the recent blocks, in a card forma
 
 The card contains the number of the block and the gas used.
 
-The gas cost is the amount of Wei that were spent to execute the all transactions in the block.
+The gas cost is the amount of Wei that were spent to execute all of the transactions in the block.
 
 ## Start the application
 
